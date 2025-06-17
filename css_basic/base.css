@@ -8,3 +8,8 @@ body {
 main {
     flex: 1;
 }
+
+.works_on_smartphone main {
+  display: block;
+}
+

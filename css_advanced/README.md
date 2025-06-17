@@ -17,14 +17,14 @@ This project is part of the **ALX HTML & CSS curriculum**. It focuses on applyin
 ---
 
 ## 🧱 Files and Structure
-
+```
 css_advanced/
 ├── index.html # Main HTML structure of the project
 ├── styles.css # Custom stylesheet for all visual elements
 ├── base.css # Basic resets or global style (if applicable)
 ├── README.md # Project description and instructions
 ├── assets/ # Folder containing images, logos, etc.
-
+```
 
 
 ---
@@ -64,17 +64,17 @@ firefox index.html
 3. Modify and enjoy styling!
 
 
-🧠 Lessons Learned
-Advanced use of selectors and pseudo-elements.
+## 🧠 Lessons Learned
+- Advanced use of selectors and pseudo-elements.
 
-CSS variable system and maintainable design structure.
+- CSS variable system and maintainable design structure.
 
-Better understanding of accessibility considerations in styling.
+- Better understanding of accessibility considerations in styling.
 
-Using Figma as a design reference for development.
+- Using Figma as a design reference for development.
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 Abdelmounaim Elharba
 LinkedIn Profile
 

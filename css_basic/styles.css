@@ -66,3 +66,6 @@ aside {
   padding: 1em;
   border-left: 3px solid #ccc;
 }
+*, *:before, *:after {
+  box-sizing: border-box;
+}

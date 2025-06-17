@@ -13,3 +13,10 @@ main {
   display: block;
 }
 
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+
